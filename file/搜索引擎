@@ -1,7 +1,6 @@
-Git is a version control system
-Git is free software distributed under the GPL
-Git has a mutable index called stage.
-Git tracks changes of files.
-Creating a new branch is quick and simple.
-Creating a new branch is quick and simple.
-llllllll
+lucene学习总结：
+一、全文检索的基本原理   https://blog.csdn.net/forfuture1978/article/details/4711308
+全文检索的两个过程：
+索引创建：将现实世界中所有的结构化和非结构化数据提取信息，创建索引
+搜索索引：就是得到用户的查询请求，搜索创建的索引，然后返回记过的过程
+全文索引相对于顺序扫描的优势之一：一次索引，多次使用
