@@ -5,3 +5,4 @@ Git tracks changes of files.
 creating a new branch is quick and simple.
 not fast forward
 dddd
+issue-101 bug stash
