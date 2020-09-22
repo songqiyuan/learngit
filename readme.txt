@@ -6,4 +6,8 @@ creating a new branch is quick and simple.
 not fast forward
 dddd
 issue-101 bug stash
+<<<<<<< Updated upstream
 data data data
+=======
+insert data
+>>>>>>> Stashed changes
