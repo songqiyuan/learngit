@@ -15,3 +15,7 @@ data data data
 insert data
 >>>>>>> Stashed changes
 >>>>>>> dev
+
+
+
+creating a new branch is quick
